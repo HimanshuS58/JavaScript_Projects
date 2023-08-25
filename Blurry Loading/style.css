@@ -15,7 +15,7 @@ body {
 }
 
 .bg {
-    background: url('Blurry Loading/image/blacksmith.jpg') no-repeat center center/cover;                    
+    background: url('../image/blacksmith.jpg') no-repeat center center/cover;                    
     position: absolute;
     top: -30px;  
     left: -30px;
