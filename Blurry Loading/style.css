@@ -15,7 +15,7 @@ body {
 }
 
 .bg {
-    background: url('../image/blacksmith.jpg')
+    background: url('image/blacksmith.jpg')
                      no-repeat center center/cover; /* Both center means we want to position the image at the center of the x-axis & y-axis respectively.
                                                        and "cover" is used to cover the whole image. 
                                                        We can ignore the 2nd center and it will still give the same result don't know why */
