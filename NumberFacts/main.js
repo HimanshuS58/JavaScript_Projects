@@ -13,7 +13,7 @@ let numberInput = document.querySelector('#numberInput');
 //  // another way is:
 //  let xhr = new XMLHttpRequest();
 
-//  xhr.open('GET', 'http://numbersapi.com/') // ---> Here we are not using the third parameter "async" whose values are (true/false).
+//  xhr.open('GET', 'http://numbersapi.com'+number') // ---> Here we are not using the third parameter "async" whose values are (true/false).
 
 //  xhr.onload = function() {
 //     if(this.status == 200 && number != '') {
