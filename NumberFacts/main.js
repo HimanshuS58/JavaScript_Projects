@@ -33,7 +33,7 @@ numberInput.addEventListener('input', getFactFetch);
 function getFactFetch() {
     let number = numberInput.value;
 
-    fetch('http://numbersapi.com/'+number)
+    fetch('http://numbersapi.com'+number)
     .then((res) => res.text())
     .then((data) => {
         if(number != '') {
