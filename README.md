@@ -11,3 +11,7 @@ https://himanshus58.github.io/JavaScript_Projects/State%20Capital%20Search/
 --> Blurry Loading
 
 https://himanshus58.github.io/JavaScript_Projects/Blurry%20Loading/
+
+--> Content Placeholder
+
+https://himanshus58.github.io/JavaScript_Projects/Content%20Placeholder/
