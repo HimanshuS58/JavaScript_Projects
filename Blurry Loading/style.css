@@ -1,27 +1,30 @@
 @import url('https://fonts.googleapis.com/css?family=Ubuntu');
 
 * {
-    box-sizing: border-box; 
+    box-sizing: border-box;  /* border box includes padding and margin both when we set a box height and width */ 
 }
 
 body {
     font-family: 'Ubuntu', sans-serif;
     display: flex;                   
-    align-items: center;                  
-    justify-content: center;               
+    align-items: center;                   /* along the y-axis/vertical-axis */
+    justify-content: center;               /* along the x-axis/horizontal-axis */
     height: 100vh;
     overflow: hidden;
     margin: 0; 
 }
 
 .bg {
-    background: url('../image/blacksmith.jpg') no-repeat center center/cover;                    
+    background: url('../image/blacksmith.jpg')
+                     no-repeat center center/cover; /* Both center means we want to position the image at the center of the x-axis & y-axis respectively.
+                                                       and "cover" is used to cover the whole image. 
+                                                       We can ignore the 2nd center and it will still give the same result don't know why */
     position: absolute;
-    top: -30px;  
-    left: -30px;
+    top: -30px;  /* this is done for the image when it is blur */
+    left: -30px; /* this is done for the image when it is blur */
     width: calc(100vw + 60px);
     height: calc(100vh + 60px);
-    z-index: -1; 
+    z-index: -1; /* -1 so that the loading text content(0%) should be put above the backgroung image */
     filter: blur(0px);                  
 }
 
