@@ -16,13 +16,13 @@ https://himanshus58.github.io/JavaScript_Projects/Blurry%20Loading/
 
 https://himanshus58.github.io/JavaScript_Projects/Random%20Choice%20Picker/
 
---> Content Placeholder
-
-https://himanshus58.github.io/JavaScript_Projects/Content%20Placeholder/
-
 --> State Capital Search
 
 https://himanshus58.github.io/JavaScript_Projects/State%20Capital%20Search/
+
+--> Content Placeholder
+
+https://himanshus58.github.io/JavaScript_Projects/Content%20Placeholder/
 
 --> Filterable List
 
