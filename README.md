@@ -19,3 +19,7 @@ https://himanshus58.github.io/JavaScript_Projects/Content%20Placeholder/
 --> Live User Filter
 
 https://himanshus58.github.io/JavaScript_Projects/Live%20User%20Filter/
+
+--> Random Choice Picker
+
+https://himanshus58.github.io/JavaScript_Projects/Random%20Choice%20Picker/
