@@ -20,7 +20,7 @@ https://himanshus58.github.io/JavaScript_Projects/Random%20Choice%20Picker/
 
 https://himanshus58.github.io/JavaScript_Projects/State%20Capital%20Search/
 
---> Content Placeholder
+--> Content Placeholder (refresh the page)
 
 https://himanshus58.github.io/JavaScript_Projects/Content%20Placeholder/
 
