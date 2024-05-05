@@ -8,7 +8,7 @@ https://himanshus58.github.io/JavaScript_Projects/Vertical%20Slider/
 
 https://himanshus58.github.io/JavaScript_Projects/Live%20User%20Filter/
 
---> Blurry Loading
+--> Blurry Loading (refresh the page)
 
 https://himanshus58.github.io/JavaScript_Projects/Blurry%20Loading/
 
